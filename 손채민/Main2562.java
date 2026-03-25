@@ -5,6 +5,8 @@ package 손채민;
 
 import java.io.*;  // 이거 공간복잡도 ? 
 
+// 1주차
+
 public class Main2562{
 
     public static void main(String[] args) throws IOException{
