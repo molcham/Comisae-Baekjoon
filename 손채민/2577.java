@@ -1,7 +1,8 @@
 package 손채민;
 import java.io.*;
 
-class Main {
+class Main { 
+    //2주차 제출 
     public static void main(String[] args) throws IOException {
         
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
