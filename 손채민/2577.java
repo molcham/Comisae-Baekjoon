@@ -1,3 +1,4 @@
+package 손채민;
 import java.io.*;
 
 class Main {
@@ -24,14 +25,6 @@ class Main {
         for(int i=0;i<10;i++){
             System.out.println(count[i]);
         }
-
-
-
-
-
-
-
-
 
     }
 }
